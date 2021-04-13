@@ -15,7 +15,7 @@
 -->
 
 <a href="https://github.com/mmohajer9/mmohajer9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmohajer9&hide=tsql,html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmohajer9&hide=tsql,html,css,scss,less" />
 </a>
 <a href="https://github.com/mmohajer9/mmohajer9">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmohajer9&show_icons=true&line_height=27&count_private=true" alt="Mamad's GitHub Stats" />
