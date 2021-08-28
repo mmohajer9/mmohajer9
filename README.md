@@ -8,7 +8,7 @@ I love developing software systems, and I love contributing to open-source proje
 
 I usually listen to podcasts in leisure times, espacially historical.
 
-**[If you are interested in my background, consider visiting my personal website](https://mamad.me)**
+**[If you are interested in my background, consider visiting my Personal Website](https://mamad.me)**
 
 ## &#x1f4c8; GitHub Stats
 
