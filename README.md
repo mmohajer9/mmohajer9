@@ -1,8 +1,14 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Personal Webpage
+## About
 
-[Mamad.me](https://mamad.me)
+I am **Mohammad Mahdi Mohajer**
+
+I love developing software systems, and I love contributing to open-source projects.
+
+I usually listen to podcasts in leisure times, espacially historical.
+
+**[If you want to know me more, consider visiting my personal website](https://mamad.me)**
 
 ## &#x1f4c8; GitHub Stats
 
