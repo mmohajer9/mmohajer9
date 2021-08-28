@@ -2,7 +2,7 @@
 
 ## About
 
-I am **Mohammad Mahdi Mohajer**
+I am **Mohammad Mahdi Mohajer**.
 
 I love developing software systems, and I love contributing to open-source projects.
 
