@@ -22,7 +22,7 @@ I usually listen to podcasts in leisure times, espacially historical.
 
 
 <a href="https://github.com/mmohajer9/mmohajer9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmohajer9&hide=tsql,html,css,scss,less&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmohajer9&hide=tsql,html,css,scss,less&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
 </a>
 
 <a href="https://github.com/mmohajer9/mmohajer9">
