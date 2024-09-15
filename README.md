@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmohajer9" alt="mmohajer9" /></a> </p>
 
-- 🔭 I’m currently working on [Scribble](https://aivida.com)
+- 🔭 I’m currently working on **[Scribble](https://aivida.com)**
 
 - 💬 Ask me about **Large Language Models, Full-Stack Development, and ML4SE Research**
 
 - 📫 How to reach me **contact@mamad.ai**
 
-- 📄 Know about my experiences [https://mamad.ai/cv/](https://mamad.ai/cv/)
+- 📄 Know about my experiences **[https://mamad.ai/cv/](https://mamad.ai/cv/)**
 
-- 📚 Checkout my research papers on my [Google Scholar profile](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en)
+- 📚 Checkout my research papers on my **[Google Scholar profile](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en)**
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
