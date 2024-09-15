@@ -24,24 +24,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mmohajer9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mmohajer9" /></a></p><br><br>
+
+### &#x1f4c8; GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmohajer9&show_icons=true&locale=en&layout=compact&hide=tsql,html,css,scss,less" alt="mmohajer9" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmohajer9&show_icons=true&locale=en" alt="mmohajer9" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmohajer9&" alt="mmohajer9" /></p>
 
-
-## &#x1f4c8; GitHub Stats
-
-<!-- <a href="https://github.com/mmohajer9/mmohajer9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmohajer9&hide=tsql,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000" />
-</a>
-<a href="https://github.com/mmohajer9/mmohajer9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmohajer9&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mamad's GitHub Stats" />
-</a>
--->
-
-
-<a href="https://github.com/mmohajer9/mmohajer9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmohajer9&hide=tsql,html,css,scss,less&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
-</a>
-
-<a href="https://github.com/mmohajer9/mmohajer9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmohajer9&show_icons=true&line_height=27&count_private=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" alt="Mamad's GitHub Stats" />
-</a>
