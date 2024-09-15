@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contact@mamad.ai**
 
-- 📄 Know about my experiences **[https://mamad.ai/cv/](https://mamad.ai/cv/)**
+- 📄 Know about my experiences **[https://mamad.ai/cv/](https://mamad.ai/)**
 
 - 📚 Checkout my research papers on my **[Google Scholar profile](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en)**
 
