@@ -34,6 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmohajer9&show_icons=true&locale=en" alt="mmohajer9-stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmohajer9&" alt="mmohajer9-streak" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmohajer9&" alt="mmohajer9-streak" /></p> -->
 
 
