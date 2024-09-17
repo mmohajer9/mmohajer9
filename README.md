@@ -30,9 +30,10 @@
 
 ### &#x1f4c8; GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmohajer9&show_icons=true&locale=en&layout=compact&hide=tsql,html,css,scss,less" alt="mmohajer9" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmohajer9&show_icons=true&locale=en&layout=compact&hide=tsql,html,css,scss,less" alt="mmohajer9-toplangs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmohajer9&show_icons=true&locale=en" alt="mmohajer9" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmohajer9&show_icons=true&locale=en" alt="mmohajer9-stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmohajer9&" alt="mmohajer9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmohajer9&" alt="mmohajer9-streak" /></p>
+
 
