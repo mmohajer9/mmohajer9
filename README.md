@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Hi 👋, I'm Mohammad Mahdi Mohajer</h1>
-<h3 align="center">Senior AI Software Engineer, ML4SE Researcher</h3>
+<h3 align="center">Senior AI Software Engineer, ML/SE Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmohajer9&label=Profile%20views&color=0e75b6&style=flat" alt="mmohajer9" /> </p>
 
