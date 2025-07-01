@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmohajer9&label=Profile%20views&color=0e75b6&style=flat" alt="mmohajer9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmohajer9" alt="mmohajer9" /></a> </p>
-
 - 🔭 I’m currently working at **[LRQA](https://www.lrqa.com/)** as a **Senior Machine Learning Engineer**.
 
 - 💬 Ask me about **Large Language Models, Full-Stack Development, and ML/SE Research**
@@ -80,13 +78,5 @@
 
 <h3 align="left">🙏 Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mmohajer9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mmohajer9" /></a><a href="https://ko-fi.com/mmohajer9"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mmohajer9" /></a></p><br><br>
-
-### &#x1f4c8; GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmohajer9&show_icons=true&locale=en&layout=compact&hide=tsql,html,css,scss,less" alt="mmohajer9-toplangs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmohajer9&show_icons=true&locale=en" alt="mmohajer9-stats" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmohajer9&" alt="mmohajer9-streak" /></p> -->
 
 
