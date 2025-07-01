@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmohajer9&label=Profile%20views&color=0e75b6&style=flat" alt="mmohajer9" /> </p>
 
-- 🔭 I’m currently working at **[LRQA](https://www.lrqa.com/)** as a **Senior Machine Learning Engineer**. I am also a **core contributor** and **Full-Stack Engineer** at the **[RELAI](https://www.relai.ai/)** platform. 
+- 🔭 I’m currently working at **[LRQA](https://www.lrqa.com/)** as a **Senior Machine Learning Engineer**. I am also a **Full-Stack Engineer** at **[RELAI](https://www.relai.ai/)**. 
 
 - 💬 Ask me about **Large Language Models, Full-Stack Development, and ML/SE Research**
 
