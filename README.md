@@ -51,17 +51,21 @@ Mohammad's **peer-reviewed work** covers **benchmarks for LLM coding ability**, 
 
 ## 3️⃣ Apparatus: The Stack 🧰
 
-**🧠 Machine Learning:** model **training** and **fine-tuning**, **evaluation**, and the tooling needed to **trust model outputs**
+**📝 Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp&perline=8" alt="Python, JavaScript, TypeScript, Java, C, C++" />
+
+**🧠 Machine Learning**
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&perline=8" alt="Python, PyTorch, TensorFlow, scikit-learn" />
 
-**🖥️ Application Engineering:** the **backend services**, **APIs**, and **interfaces** that turn a model into a **product**
+**🖥️ Application Engineering**
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,django,nodejs,graphql&perline=8" alt="TypeScript, React, Next.js, Django, Node.js, GraphQL" />
 
-**☁️ Infrastructure & Data:** **deployment**, **orchestration**, and **data systems** that keep everything **reliable in production**
+**☁️ Infrastructure & Data**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,redis,nginx&perline=8" alt="Docker, Kubernetes, AWS, PostgreSQL, Redis, Nginx" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,postgres,redis,nginx&perline=8" alt="Docker, Kubernetes, AWS, Azure, GCP, PostgreSQL, Redis, Nginx" />
 
 ## 4️⃣ Threats to Validity
 
