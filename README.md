@@ -28,11 +28,11 @@ There are persistent **founder symptoms** too 🚀: ideas around me have a habit
 
 ```mermaid
 flowchart LR
-    A(("💡 Opportunity")) --> B(("🏗️ Build"))
-    B --> C(("🧠 Add intelligence"))
-    C --> D(("⚗️ Test it"))
-    D --> E(("🚀 Ship it"))
-    E --> F(("📄 Publish"))
+    A(["💡 Spot an opportunity"]) --> B(["🏗️ Build the product"])
+    B --> C(["🧠 Make it intelligent"])
+    C --> D(["⚗️ Benchmark and test"])
+    D --> E(["🚀 Ship to real users"])
+    E --> F(["📄 Publish what holds up"])
     F --> A
     style A fill:#0099cc,stroke:#007aa3,color:#ffffff
     style B fill:#007fd6,stroke:#005bb8,color:#ffffff
