@@ -6,7 +6,7 @@
 
 *ML × SE Researcher · Full-Stack at Heart · Toronto, Canada 🇨🇦*
 
-<sub>\* First name Mohammad Mahdi, last name Mohajer. Also answers to **Mo** and **Mamad**. Yes, that explains the domain name.</sub>
+<sub>\* Also answers to **Mo** and **Mamad**. Yes, that explains the domain name.</sub>
 
 </div>
 
