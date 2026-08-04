@@ -57,8 +57,7 @@ Mohammad's **peer-reviewed work** covers **benchmarks for LLM coding ability**, 
 
 #### 🧠 Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=8" alt="PyTorch, TensorFlow, scikit-learn" />
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=8" alt="PyTorch, TensorFlow, scikit-learn" /><img src="assets/icons/langchain.svg" width="48" height="48" alt="LangChain" />
 
 #### 🖥️ Application Engineering
 
@@ -66,8 +65,7 @@ Mohammad's **peer-reviewed work** covers **benchmarks for LLM coding ability**, 
 
 #### ☁️ Infrastructure & Data
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,postgres,redis,nginx&perline=8" alt="Docker, Kubernetes, AWS, Azure, GCP, PostgreSQL, Redis, Nginx" />
-[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,postgres,redis,nginx&perline=8" alt="Docker, Kubernetes, AWS, Azure, GCP, PostgreSQL, Redis, Nginx" /><img src="assets/icons/digitalocean.svg" width="48" height="48" alt="DigitalOcean" />
 
 ## 4️⃣ Threats to Validity
 
