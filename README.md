@@ -10,7 +10,7 @@
 
 </div>
 
-> 🧾 **Abstract.** This profile documents **Mohammad Mahdi Mohajer**, an engineer with a **rare dual expertise**: a **senior full-stack software engineer** who became a **senior ML/AI engineer**, with both skill sets kept sharp. He ships products from **first commit to production** and publishes **peer-reviewed research** on whether AI systems work as well as everyone claims. The condition is stable and productive.
+> 🧾 **Abstract.** This profile documents **Mohammad Mahdi Mohajer**, an engineer with **dual expertise**: a **senior full-stack software engineer** who became a **senior ML/AI engineer**, with both skill sets kept sharp. He ships products from **first commit to production** and publishes **peer-reviewed research** on whether AI systems work as well as everyone claims. The condition is stable and productive.
 
 **🏷️ Index Terms:** `full-stack engineering` · `large language models` · `software testing` · `benchmarking` · `program analysis` · `production ML systems`
 
