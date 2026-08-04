@@ -51,15 +51,15 @@ Mohammad's **peer-reviewed work** covers **benchmarks for LLM coding ability**, 
 
 ## 3️⃣ Apparatus: The Stack 🧰
 
-**🧠 ML & LLMs:** model **training**, **evaluation**, and everything needed to **trust the outputs**
+**🧠 Machine Learning:** model **training** and **fine-tuning**, **evaluation**, and the tooling needed to **trust model outputs**
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&perline=8" alt="Python, PyTorch, TensorFlow, scikit-learn" />
 
-**🖥️ Product & Backend:** because a model without a product around it is just a **demo**
+**🖥️ Application Engineering:** the **backend services**, **APIs**, and **interfaces** that turn a model into a **product**
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,django,nodejs,graphql&perline=8" alt="TypeScript, React, Next.js, Django, Node.js, GraphQL" />
 
-**☁️ Infra & Data:** keeping things alive in **production**, where *"it worked on my machine"* goes to die
+**☁️ Infrastructure & Data:** **deployment**, **orchestration**, and **data systems** that keep everything **reliable in production**
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,redis,nginx&perline=8" alt="Docker, Kubernetes, AWS, PostgreSQL, Redis, Nginx" />
 
