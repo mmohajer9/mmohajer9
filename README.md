@@ -13,7 +13,7 @@
 
 </div>
 
-> 🧾 **Abstract.** This profile documents a long-running case study of one senior AI engineer with an unusual dual condition. By day, the subject ships production LLM systems. By night, he publishes peer-reviewed research asking whether those systems work as well as everyone claims. Symptoms include a decade of full-stack engineering, a growing publication record in software engineering venues, and a stubborn refusal to accept *"it looks fine"* as an evaluation method. The two conditions turn out to help each other: each one treats the failure modes of the other. The condition is stable, productive, and shows no exit criteria (see Fig. 1).
+> 🧾 **Abstract.** This profile documents a long-running case study of Mohammad, a senior AI engineer with an unusual dual condition. By day, he ships production LLM systems. By night, he publishes peer-reviewed research asking whether those systems work as well as everyone claims. Symptoms include a decade of full-stack engineering, a growing publication record in software engineering venues, and a stubborn refusal to accept *"it looks fine"* as an evaluation method. The two conditions turn out to help each other: each one treats the failure modes of the other. The condition is stable, productive, and shows no exit criteria (see Fig. 1).
 
 **🏷️ Index Terms:** `large language models` · `software testing` · `benchmarking` · `program analysis` · `production ML systems`
 
@@ -40,11 +40,11 @@ flowchart LR
     linkStyle default stroke:#0072ff,stroke-width:2px
 ```
 
-<div align="center"><sub><b>Figure 1.</b> The subject's core feedback loop. No exit condition has been observed.</sub></div>
+<div align="center"><sub><b>Figure 1.</b> Mohammad's core feedback loop. No exit condition has been observed.</sub></div>
 
 ## 2️⃣ Related Work
 
-The subject's peer-reviewed work covers benchmarks for LLM coding ability, testing methods for deep learning libraries, and LLM-driven program analysis. The full record is archived in [[3]](#references) 📚. His industry track record is documented separately in [[2]](#references) 💼.
+Mohammad's peer-reviewed work covers benchmarks for LLM coding ability, testing methods for deep learning libraries, and LLM-driven program analysis. The full record is archived in [[3]](#references) 📚. His industry track record is documented separately in [[2]](#references) 💼.
 
 ## 3️⃣ Apparatus: The Stack 🧰
 
@@ -64,13 +64,13 @@ The subject's peer-reviewed work covers benchmarks for LLM coding ability, testi
 
 ## 4️⃣ Threats to Validity
 
-⚠️ This README was written by the subject himself. Independent replication is encouraged: read the papers [[3]](#references) 📄, run the [code](https://github.com/mmohajer9?tab=repositories) 💻, or email him [[5]](#references) ✉️ and draw your own conclusions.
+⚠️ This README was written by Mohammad himself. Independent replication is encouraged: read the papers [[3]](#references) 📄, run the [code](https://github.com/mmohajer9?tab=repositories) 💻, or email him [[5]](#references) ✉️ and draw your own conclusions.
 
 ## References
 
 | # | Directory | Contents |
 |---|---|---|
-| [1] | 🌐 **[mamad.ai](https://mamad.ai/)** | The subject's homepage |
+| [1] | 🌐 **[mamad.ai](https://mamad.ai/)** | Mohammad's homepage |
 | [2] | 💼 **[LinkedIn](https://www.linkedin.com/in/mmohajer9/)** | Industry track record, independently documented |
 | [3] | 📚 **[Google Scholar](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en)** | Peer-reviewed publications, fully archived |
 | [4] | 🧩 **[Stack Overflow](https://stackoverflow.com/users/9091011)** | Answers left in the wild |
