@@ -8,14 +8,8 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1100&center=true&vCenter=true&width=620&color=764BA2&lines=Ships+production+LLM+systems+%F0%9F%8F%97%EF%B8%8F;Publishes+peer-reviewed+doubts+about+them+%F0%9F%94%AC;290%2B+citations+%C2%B7+h-index+7+%F0%9F%93%8A;10+years+of+full-stack+underneath+the+ML+%E2%9A%A1" alt="Ships production LLM systems · Publishes peer-reviewed doubts about them" />
 
-[![Website](https://img.shields.io/badge/🌐_mamad.ai-6C5CE7?style=for-the-badge)](https://mamad.ai/)
-[![Scholar](https://img.shields.io/badge/📚_Google_Scholar-4285F4?style=for-the-badge)](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mmohajer9/)
-[![Email](https://img.shields.io/badge/✉️_contact@mamad.ai-EA4335?style=for-the-badge)](mailto:contact@mamad.ai)
-
 [![Citations](https://img.shields.io/badge/📚_Citations-290%2B-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en)
 [![h-index](https://img.shields.io/badge/📈_h--index-7-34A853?style=for-the-badge)](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en)
-[![Stack Overflow](https://img.shields.io/badge/🧩_Stack_Overflow-F58025?style=for-the-badge)](https://stackoverflow.com/users/9091011)
 
 </div>
 
@@ -52,13 +46,7 @@ flowchart LR
 
 The subject's peer-reviewed record — benchmarks for LLM coding abilities, testing methods for deep learning libraries, and LLM-driven program analysis — is fully archived on [Google Scholar](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en) 📚. The industry track record is independently documented on [LinkedIn](https://www.linkedin.com/in/mmohajer9/) 💼.
 
-## 3️⃣ Systems & Artifacts
-
-- 🎬 **[video-to-ui](https://github.com/mmohajer9/video-to-ui)** — a Claude Code skill that turns a UI screen recording into design data, code edits, or a runnable React scaffold
-- 🌐 **[RESTester](https://github.com/mmohajer9/RESTester)** — automatic black-box test-case generator for RESTful APIs (+ its [Testing-as-a-Service backend](https://github.com/mmohajer9/RESTester-TaaS))
-- 📏 **[pyccmetrics](https://github.com/mmohajer9/pyccmetrics)** — Python package for code-complexity metrics
-
-## 4️⃣ Apparatus — the stack 🧰
+## 3️⃣ Apparatus — the stack 🧰
 
 **🧠 ML & LLMs** — model training, evaluation, and everything needed to trust the outputs
 
@@ -74,9 +62,19 @@ The subject's peer-reviewed record — benchmarks for LLM coding abilities, test
 
 > ⚗️ **Evaluation criterion:** if it isn't tested, it doesn't work — it just hasn't failed yet.
 
-## 5️⃣ Threats to Validity
+## 4️⃣ Threats to Validity
 
 ⚠️ This README was written by the subject himself. Independent replication is strongly encouraged: read the [papers](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en) 📄, run the [code](https://github.com/mmohajer9?tab=repositories) 💻, or [email him](mailto:contact@mamad.ai) ✉️ and reach your own conclusions.
+
+## 🗂️ Appendix A — Directories
+
+| Directory | Contents |
+|---|---|
+| 🌐 **[mamad.ai](https://mamad.ai/)** | The subject's homepage |
+| 💼 **[LinkedIn](https://www.linkedin.com/in/mmohajer9/)** | Industry track record, independently documented |
+| 📚 **[Google Scholar](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en)** | Peer-reviewed publications, fully archived |
+| 🧩 **[Stack Overflow](https://stackoverflow.com/users/9091011)** | Answers left in the wild |
+| ✉️ **[contact@mamad.ai](mailto:contact@mamad.ai)** | Correspondence — hard problems preferred |
 
 ## 📖 How to Cite
 
