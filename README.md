@@ -24,20 +24,22 @@ I spent years as a senior full-stack software engineer before moving into ML and
 
 ```mermaid
 flowchart LR
-    A(["💡 Idea"]) --> B(["🏗️ Build the product, end to end"])
+    A(["💡 Spot an opportunity"]) --> B(["🏗️ Build the product, end to end"])
     B --> C(["🧠 Make it intelligent"])
     C --> D(["⚗️ Benchmark and test"])
-    D --> E(["📄 Publish what holds up"])
-    E --> A
+    D --> E(["🚀 Ship it to real users"])
+    E --> F(["📄 Publish what holds up"])
+    F --> A
     style A fill:#0099cc,stroke:#007aa3,color:#ffffff
     style B fill:#007fd6,stroke:#005bb8,color:#ffffff
     style C fill:#0057c2,stroke:#00459c,color:#ffffff
-    style D fill:#4338ca,stroke:#3730a3,color:#ffffff
-    style E fill:#6b21a8,stroke:#581c87,color:#ffffff
+    style D fill:#3346c8,stroke:#2536a3,color:#ffffff
+    style E fill:#5429b8,stroke:#41209c,color:#ffffff
+    style F fill:#6b21a8,stroke:#581c87,color:#ffffff
     linkStyle default stroke:#0057c2,stroke-width:2px
 ```
 
-<div align="center"><sub><b>Figure 1.</b> Mohammad's operating loop, from idea to product to proof. No exit condition has been observed.</sub></div>
+<div align="center"><sub><b>Figure 1.</b> Mohammad's operating loop, from opportunity to product to proof. No exit condition has been observed.</sub></div>
 
 ## 2️⃣ Related Work
 
