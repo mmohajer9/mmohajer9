@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Senior ML/Software Engineer @ [LRQA](https://www.lrqa.com/)
 
-*ML/Software Researcher · Engineer at ❤️ · Toronto, Canada 🇨🇦*
+*Research @ York University · Engineer at ❤️ · Toronto, Canada 🇨🇦*
 
 <sub>\* Also answers to **Mo** and **Mamad**. Yes, that explains the domain name.</sub>
 
