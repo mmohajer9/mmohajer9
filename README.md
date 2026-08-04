@@ -60,7 +60,7 @@ The subject's peer-reviewed record — benchmarks for LLM coding abilities, test
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,redis,nginx&perline=8" alt="Docker, Kubernetes, AWS, PostgreSQL, Redis, Nginx" />
 
-> ⚗️ **Evaluation criterion:** if it isn't tested, it doesn't work — it just hasn't failed yet.
+**⚗️ Evaluation criterion** — every claim gets a benchmark; every system gets a test. Vibes are not a metric.
 
 ## 4️⃣ Threats to Validity
 
