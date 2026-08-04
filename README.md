@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099cc,50:0057c2,100:6b21a8&height=210&section=header&text=Mohammad%20Mahdi%20Mohajer&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ships%20the%20whole%20stack.%20Proves%20it%20works.&descAlignY=58&descSize=19" width="100%" alt="Mohammad Mahdi Mohajer. Ships the whole stack. Proves it works." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1931,50:0f3470,100:3a1d6b&height=210&section=header&text=Mohammad%20Mahdi%20Mohajer&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ships%20the%20whole%20stack.%20Proves%20it%20works.&descAlignY=58&descSize=19" width="100%" alt="Mohammad Mahdi Mohajer. Ships the whole stack. Proves it works." />
 
 <div align="center">
 
@@ -6,21 +6,21 @@
 
 *ML × SE Researcher · Full-Stack at Heart · Toronto, Canada 🇨🇦*
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1100&center=true&vCenter=true&width=620&color=0072FF&lines=Full-stack+engineer+turned+AI+engineer+%F0%9F%A7%A0;Ships+products+end-to-end+%F0%9F%9A%80;Publishes+peer-reviewed+doubts+about+AI+%F0%9F%94%AC" alt="Full-stack engineer turned AI engineer · Ships products end-to-end · Publishes peer-reviewed doubts about AI" />
+<sub>\* First name Mohammad Mahdi, last name Mohajer. Also answers to **Mo** and **Mamad**. Yes, that explains the domain name.</sub>
 
 </div>
 
-> 🧾 **Abstract.** This profile documents Mohammad, an engineer with a rare dual expertise. He spent years as a senior full-stack software engineer before becoming a senior ML/AI engineer, and he kept both skill sets sharp. He can take a product from first commit to production [[1]](#references), and he can make the intelligent parts of it genuinely intelligent. He also publishes peer-reviewed research asking whether AI systems work as well as everyone claims [[3]](#references), and shows persistent founder symptoms: ideas keep turning into products. The condition is stable, productive, and shows no exit criteria (see Fig. 1).
+> 🧾 **Abstract.** This profile documents Mohammad Mahdi Mohajer, an engineer with a rare dual expertise. He spent years as a senior full-stack software engineer before becoming a senior ML/AI engineer, and he kept both skill sets sharp. He can take a product from first commit to production, and he can make the intelligent parts of it genuinely intelligent. He also publishes peer-reviewed research asking whether AI systems work as well as everyone claims, and shows persistent founder symptoms: ideas keep turning into products. The condition is stable, productive, and shows no exit criteria (see Fig. 1).
 
 **🏷️ Index Terms:** `full-stack engineering` · `large language models` · `software testing` · `benchmarking` · `program analysis` · `production ML systems`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0099cc,50:0057c2,100:6b21a8&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1931,50:0f3470,100:3a1d6b&height=3" width="100%" alt="" />
 
 ## 1️⃣ Introduction
 
 Most engineers **ship** AI systems. Most researchers **doubt** them. I do both, and I'm convinced neither works without the other.
 
-I spent years as a senior full-stack engineer before moving into ML and AI, and I never put the first toolbox down. That mix is rarer than it should be: I can design the model side and also build the entire product around it, end to end. At **LRQA** 🏗️ I do exactly that for production LLM systems: retrieval, evaluation pipelines, and the product that turns a model into something people can rely on. On the research side 🔬, I build benchmarks and testing methods that check whether any of it actually holds up.
+I spent years as a senior full-stack software engineer before moving into ML and AI, and I never put the first toolbox down. That mix is rarer than it should be: I can design the intelligent core of a system 🧠 and also build the entire product around it, end to end 🏗️. My work spans production AI systems, the engineering that keeps them reliable, and research 🔬 on how to evaluate them honestly.
 
 ```mermaid
 flowchart LR
@@ -93,4 +93,4 @@ This research was supported by **coffee** ☕. Grants are accepted via:
 &nbsp;
 <a href="https://ko-fi.com/mmohajer9"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Ko-fi" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099cc,50:0057c2,100:6b21a8&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1931,50:0f3470,100:3a1d6b&height=110&section=footer" width="100%" alt="" />
