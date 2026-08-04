@@ -77,11 +77,12 @@ Mohammad's peer-reviewed work covers benchmarks for LLM coding ability, testing 
 
 ```bibtex
 @misc{mohajer,
-  author  = {Mohajer, Mohammad Mahdi},
-  title   = {Available for interesting problems in LLM systems and SE research},
-  contact = {contact@mamad.ai},
-  url     = {https://mamad.ai},
-  note    = {Toronto, Canada. Responds faster to hard problems than easy ones.}
+  author   = {Mohajer, Mohammad Mahdi},
+  title    = {Full-Stack and ML/AI Engineer: Ships the Whole Stack, Proves It Works},
+  contact  = {contact@mamad.ai},
+  url      = {https://mamad.ai},
+  location = {Toronto, Canada},
+  note     = {Responds faster to hard problems than easy ones.}
 }
 ```
 
