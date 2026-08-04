@@ -51,21 +51,21 @@ Mohammad's **peer-reviewed work** covers **benchmarks for LLM coding ability**, 
 
 ## 3️⃣ Apparatus: The Stack 🧰
 
-**📝 Programming Languages**
+#### 📝 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp&perline=8" alt="Python, JavaScript, TypeScript, Java, C, C++" />
 
-**🧠 Machine Learning**
+#### 🧠 Machine Learning
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&perline=8" alt="Python, PyTorch, TensorFlow, scikit-learn" />
 
-**🖥️ Application Engineering**
+#### 🖥️ Application Engineering
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,django,nodejs,graphql&perline=8" alt="TypeScript, React, Next.js, Django, Node.js, GraphQL" />
 
-**☁️ Infrastructure & Data**
+#### ☁️ Infrastructure & Data
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,postgres,redis,nginx&perline=8" alt="Docker, Kubernetes, AWS, Azure, GCP, PostgreSQL, Redis, Nginx" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,digitalocean,postgres,redis,nginx&perline=8" alt="Docker, Kubernetes, AWS, Azure, GCP, DigitalOcean, PostgreSQL, Redis, Nginx" />
 
 ## 4️⃣ Threats to Validity
 
