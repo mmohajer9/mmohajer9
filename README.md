@@ -1,18 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099cc,50:0057c2,100:6b21a8&height=210&section=header&text=Shipping%20and%20Doubting%20LLMs&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20Longitudinal%20Case%20Study%20of%20One%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Shipping and Doubting LLMs — A Longitudinal Case Study of One Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099cc,50:0057c2,100:6b21a8&height=210&section=header&text=Mohammad%20Mahdi%20Mohajer&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ships%20the%20whole%20stack.%20Proves%20it%20works.&descAlignY=58&descSize=19" width="100%" alt="Mohammad Mahdi Mohajer. Ships the whole stack. Proves it works." />
 
 <div align="center">
 
-### 👨‍💻 Mohammad Mahdi Mohajer
+### 👨‍💻 Senior ML/Software Engineer @ [LRQA](https://www.lrqa.com/)
 
-*Senior ML Engineer, [LRQA](https://www.lrqa.com/) · ML × SE Researcher · Toronto, Canada 🇨🇦*
+*ML × SE Researcher · Full-Stack at Heart · Toronto, Canada 🇨🇦*
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1100&center=true&vCenter=true&width=620&color=0072FF&lines=Ships+production+LLM+systems+%F0%9F%8F%97%EF%B8%8F;Publishes+peer-reviewed+doubts+about+them+%F0%9F%94%AC;Full-stack+underneath+the+ML+%E2%9A%A1" alt="Ships production LLM systems · Publishes peer-reviewed doubts about them" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1100&center=true&vCenter=true&width=620&color=0072FF&lines=Full-stack+engineer+turned+AI+engineer+%F0%9F%A7%A0;Ships+products+end-to-end+%F0%9F%9A%80;Publishes+peer-reviewed+doubts+about+AI+%F0%9F%94%AC" alt="Full-stack engineer turned AI engineer · Ships products end-to-end · Publishes peer-reviewed doubts about AI" />
 
 </div>
 
-> 🧾 **Abstract.** This profile documents a long-running case study of Mohammad, a senior AI engineer with an unusual dual condition. By day, he ships production LLM systems. By night, he publishes peer-reviewed research asking whether those systems work as well as everyone claims. Symptoms include a long history of full-stack engineering, a growing publication record in software engineering venues, and a stubborn refusal to accept *"it looks fine"* as an evaluation method. The two conditions turn out to help each other: each one treats the failure modes of the other. The condition is stable, productive, and shows no exit criteria (see Fig. 1).
+> 🧾 **Abstract.** This profile documents Mohammad, an engineer with a rare dual expertise. He spent years as a senior full-stack software engineer before becoming a senior ML/AI engineer, and he kept both skill sets sharp. He can take a product from first commit to production [[1]](#references), and he can make the intelligent parts of it genuinely intelligent. He also publishes peer-reviewed research asking whether AI systems work as well as everyone claims [[3]](#references), and shows persistent founder symptoms: ideas keep turning into products. The condition is stable, productive, and shows no exit criteria (see Fig. 1).
 
-**🏷️ Index Terms:** `large language models` · `software testing` · `benchmarking` · `program analysis` · `production ML systems`
+**🏷️ Index Terms:** `full-stack engineering` · `large language models` · `software testing` · `benchmarking` · `program analysis` · `production ML systems`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0099cc,50:0057c2,100:6b21a8&height=3" width="100%" alt="" />
 
@@ -20,24 +20,24 @@
 
 Most engineers **ship** AI systems. Most researchers **doubt** them. I do both, and I'm convinced neither works without the other.
 
-At **LRQA** 🏗️ I build everything around the model: retrieval, evaluation pipelines, and the full-stack product that turns an LLM into something people can rely on. On the research side 🔬, I build benchmarks and testing methods that check whether any of it actually holds up, including work on how well LLMs handle real-world software engineering tasks.
+I spent years as a senior full-stack engineer before moving into ML and AI, and I never put the first toolbox down. That mix is rarer than it should be: I can design the model side and also build the entire product around it, end to end. At **LRQA** 🏗️ I do exactly that for production LLM systems: retrieval, evaluation pipelines, and the product that turns a model into something people can rely on. On the research side 🔬, I build benchmarks and testing methods that check whether any of it actually holds up.
 
 ```mermaid
 flowchart LR
-    A(["🏗️ Ship LLM systems"]) --> B(["🤨 Doubt them"])
-    B --> C(["🔬 Benchmark and test"])
-    C --> D(["📄 Publish findings"])
-    D --> E(["💡 Ship them better"])
+    A(["💡 Idea"]) --> B(["🏗️ Build the product, end to end"])
+    B --> C(["🧠 Make it intelligent"])
+    C --> D(["⚗️ Benchmark and test"])
+    D --> E(["📄 Publish what holds up"])
     E --> A
-    style A fill:#00c6ff,stroke:#0072ff,color:#0f172a
-    style B fill:#009bf5,stroke:#0072ff,color:#ffffff
-    style C fill:#0072ff,stroke:#0057c2,color:#ffffff
-    style D fill:#4a4fe4,stroke:#3730a3,color:#ffffff
-    style E fill:#8e2de2,stroke:#6b21a8,color:#ffffff
-    linkStyle default stroke:#0072ff,stroke-width:2px
+    style A fill:#0099cc,stroke:#007aa3,color:#ffffff
+    style B fill:#007fd6,stroke:#005bb8,color:#ffffff
+    style C fill:#0057c2,stroke:#00459c,color:#ffffff
+    style D fill:#4338ca,stroke:#3730a3,color:#ffffff
+    style E fill:#6b21a8,stroke:#581c87,color:#ffffff
+    linkStyle default stroke:#0057c2,stroke-width:2px
 ```
 
-<div align="center"><sub><b>Figure 1.</b> Mohammad's core feedback loop. No exit condition has been observed.</sub></div>
+<div align="center"><sub><b>Figure 1.</b> Mohammad's operating loop, from idea to product to proof. No exit condition has been observed.</sub></div>
 
 ## 2️⃣ Related Work
 
