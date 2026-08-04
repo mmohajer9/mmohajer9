@@ -46,7 +46,7 @@ flowchart LR
 
 The subject's peer-reviewed work covers benchmarks for LLM coding ability, testing methods for deep learning libraries, and LLM-driven program analysis. The full record is archived in [[3]](#references) 📚. His industry track record is documented separately in [[2]](#references) 💼.
 
-## 3️⃣ Apparatus — the stack 🧰
+## 3️⃣ Apparatus: The Stack 🧰
 
 **🧠 ML & LLMs:** model training, evaluation, and everything needed to trust the outputs
 
