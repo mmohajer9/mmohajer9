@@ -23,7 +23,7 @@
 
 Most engineers **ship** AI systems. Most researchers **doubt** them. I do both — and I'm convinced neither works without the other.
 
-At **[LRQA](https://www.lrqa.com/)** 🏗️ I build what surrounds the model: the retrieval, the evaluation pipelines, and the full-stack product that turns an LLM into something people can rely on. In my research life 🔬, I build the benchmarks and testing methods that check whether any of it actually holds up — including work on evaluating LLMs against real-world software engineering tasks.
+At **LRQA** 🏗️ I build what surrounds the model: the retrieval, the evaluation pipelines, and the full-stack product that turns an LLM into something people can rely on. In my research life 🔬, I build the benchmarks and testing methods that check whether any of it actually holds up — including work on evaluating LLMs against real-world software engineering tasks.
 
 ```mermaid
 flowchart LR
@@ -44,7 +44,7 @@ flowchart LR
 
 ## 2️⃣ Related Work
 
-The subject's peer-reviewed record — benchmarks for LLM coding abilities, testing methods for deep learning libraries, and LLM-driven program analysis — is fully archived on [Google Scholar](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en) 📚. The industry track record is independently documented on [LinkedIn](https://www.linkedin.com/in/mmohajer9/) 💼.
+The subject's peer-reviewed record — benchmarks for LLM coding abilities, testing methods for deep learning libraries, and LLM-driven program analysis — is fully archived in [[3]](#references) 📚. The industry track record is independently documented in [[2]](#references) 💼.
 
 ## 3️⃣ Apparatus — the stack 🧰
 
@@ -64,17 +64,17 @@ The subject's peer-reviewed record — benchmarks for LLM coding abilities, test
 
 ## 4️⃣ Threats to Validity
 
-⚠️ This README was written by the subject himself. Independent replication is strongly encouraged: read the [papers](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en) 📄, run the [code](https://github.com/mmohajer9?tab=repositories) 💻, or [email him](mailto:contact@mamad.ai) ✉️ and reach your own conclusions.
+⚠️ This README was written by the subject himself. Independent replication is strongly encouraged: read the papers [[3]](#references) 📄, run the [code](https://github.com/mmohajer9?tab=repositories) 💻, or email him [[5]](#references) ✉️ and reach your own conclusions.
 
-## 🗂️ Appendix A — Directories
+## References
 
-| Directory | Contents |
-|---|---|
-| 🌐 **[mamad.ai](https://mamad.ai/)** | The subject's homepage |
-| 💼 **[LinkedIn](https://www.linkedin.com/in/mmohajer9/)** | Industry track record, independently documented |
-| 📚 **[Google Scholar](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en)** | Peer-reviewed publications, fully archived |
-| 🧩 **[Stack Overflow](https://stackoverflow.com/users/9091011)** | Answers left in the wild |
-| ✉️ **[contact@mamad.ai](mailto:contact@mamad.ai)** | Correspondence — hard problems preferred |
+| # | Directory | Contents |
+|---|---|---|
+| [1] | 🌐 **[mamad.ai](https://mamad.ai/)** | The subject's homepage |
+| [2] | 💼 **[LinkedIn](https://www.linkedin.com/in/mmohajer9/)** | Industry track record, independently documented |
+| [3] | 📚 **[Google Scholar](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en)** | Peer-reviewed publications, fully archived |
+| [4] | 🧩 **[Stack Overflow](https://stackoverflow.com/users/9091011)** | Answers left in the wild |
+| [5] | ✉️ **[contact@mamad.ai](mailto:contact@mamad.ai)** | Correspondence — hard problems preferred |
 
 ## 📖 How to Cite
 
