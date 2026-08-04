@@ -10,7 +10,7 @@
 
 </div>
 
-> 🧾 **Abstract.** This profile documents Mohammad Mahdi Mohajer, an engineer with a rare dual expertise. He spent years as a senior full-stack software engineer before becoming a senior ML/AI engineer, and he kept both skill sets sharp. He can take a product from first commit to production, and he can make the intelligent parts of it genuinely intelligent. He also publishes peer-reviewed research asking whether AI systems work as well as everyone claims, and shows persistent founder symptoms: ideas keep turning into products. The condition is stable, productive, and shows no exit criteria (see Fig. 1).
+> 🧾 **Abstract.** This profile documents Mohammad Mahdi Mohajer, an engineer with a rare dual expertise: a senior full-stack software engineer who became a senior ML/AI engineer, with both skill sets kept sharp. He ships products from first commit to production and publishes peer-reviewed research on whether AI systems work as well as everyone claims. The condition is stable and productive.
 
 **🏷️ Index Terms:** `full-stack engineering` · `large language models` · `software testing` · `benchmarking` · `program analysis` · `production ML systems`
 
@@ -21,6 +21,8 @@
 Most engineers **ship** AI systems. Most researchers **doubt** them. I do both, and I'm convinced neither works without the other.
 
 I spent years as a senior full-stack software engineer before moving into ML and AI, and I never put the first toolbox down. That mix is rarer than it should be: I can design the intelligent core of a system 🧠 and also build the entire product around it, end to end 🏗️. My work spans production AI systems, the engineering that keeps them reliable, and research 🔬 on how to evaluate them honestly.
+
+There are persistent founder symptoms too 🚀: ideas around me have a habit of turning into products. Figure 1 shows the loop that ties all of this together.
 
 ```mermaid
 flowchart LR
