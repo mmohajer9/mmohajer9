@@ -63,8 +63,6 @@ Mohammad's **peer-reviewed work** covers **benchmarks for LLM coding ability**, 
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,redis,nginx&perline=8" alt="Docker, Kubernetes, AWS, PostgreSQL, Redis, Nginx" />
 
-**⚗️ Evaluation criterion:** every claim gets a **benchmark** and every system gets a **test**. **Vibes are not a metric.**
-
 ## 4️⃣ Threats to Validity
 
 ⚠️ This README was written by Mohammad himself. **Independent replication** is encouraged: **read the papers** [[3]](#references) 📄, **run the [code](https://github.com/mmohajer9?tab=repositories)** 💻, or **email him** [[5]](#references) ✉️ and draw your own conclusions.
