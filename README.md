@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:8E2DE2&height=210&section=header&text=Shipping%20and%20Doubting%20LLMs&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20Longitudinal%20Case%20Study%20of%20One%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Shipping and Doubting LLMs — A Longitudinal Case Study of One Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099cc,50:0057c2,100:6b21a8&height=210&section=header&text=Shipping%20and%20Doubting%20LLMs&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20Longitudinal%20Case%20Study%20of%20One%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Shipping and Doubting LLMs — A Longitudinal Case Study of One Engineer" />
 
 <div align="center">
 
@@ -6,18 +6,15 @@
 
 *Senior ML Engineer, [LRQA](https://www.lrqa.com/) · ML × SE Researcher · Toronto, Canada 🇨🇦*
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1100&center=true&vCenter=true&width=620&color=0072FF&lines=Ships+production+LLM+systems+%F0%9F%8F%97%EF%B8%8F;Publishes+peer-reviewed+doubts+about+them+%F0%9F%94%AC;290%2B+citations+%C2%B7+h-index+7+%F0%9F%93%8A;10+years+of+full-stack+underneath+the+ML+%E2%9A%A1" alt="Ships production LLM systems · Publishes peer-reviewed doubts about them" />
-
-[![Citations](https://img.shields.io/badge/📚_Citations-290%2B-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en)
-[![h-index](https://img.shields.io/badge/📈_h--index-7-34A853?style=for-the-badge)](https://scholar.google.ca/citations?user=GtTTkj0AAAAJ&hl=en)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1100&center=true&vCenter=true&width=620&color=0072FF&lines=Ships+production+LLM+systems+%F0%9F%8F%97%EF%B8%8F;Publishes+peer-reviewed+doubts+about+them+%F0%9F%94%AC;Full-stack+underneath+the+ML+%E2%9A%A1" alt="Ships production LLM systems · Publishes peer-reviewed doubts about them" />
 
 </div>
 
-> 🧾 **Abstract.** This profile documents a long-running case study of Mohammad, a senior AI engineer with an unusual dual condition. By day, he ships production LLM systems. By night, he publishes peer-reviewed research asking whether those systems work as well as everyone claims. Symptoms include a decade of full-stack engineering, a growing publication record in software engineering venues, and a stubborn refusal to accept *"it looks fine"* as an evaluation method. The two conditions turn out to help each other: each one treats the failure modes of the other. The condition is stable, productive, and shows no exit criteria (see Fig. 1).
+> 🧾 **Abstract.** This profile documents a long-running case study of Mohammad, a senior AI engineer with an unusual dual condition. By day, he ships production LLM systems. By night, he publishes peer-reviewed research asking whether those systems work as well as everyone claims. Symptoms include a long history of full-stack engineering, a growing publication record in software engineering venues, and a stubborn refusal to accept *"it looks fine"* as an evaluation method. The two conditions turn out to help each other: each one treats the failure modes of the other. The condition is stable, productive, and shows no exit criteria (see Fig. 1).
 
 **🏷️ Index Terms:** `large language models` · `software testing` · `benchmarking` · `program analysis` · `production ML systems`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:8E2DE2&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0099cc,50:0057c2,100:6b21a8&height=3" width="100%" alt="" />
 
 ## 1️⃣ Introduction
 
@@ -79,7 +76,7 @@ Mohammad's peer-reviewed work covers benchmarks for LLM coding ability, testing 
 ## 📖 How to Cite
 
 ```bibtex
-@misc{mohajer2026,
+@misc{mohajer,
   author  = {Mohajer, Mohammad Mahdi},
   title   = {Available for interesting problems in LLM systems and SE research},
   contact = {contact@mamad.ai},
@@ -96,4 +93,4 @@ This research was supported by **coffee** ☕. Grants are accepted via:
 &nbsp;
 <a href="https://ko-fi.com/mmohajer9"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Ko-fi" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:8E2DE2&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099cc,50:0057c2,100:6b21a8&height=110&section=footer" width="100%" alt="" />
