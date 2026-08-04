@@ -57,7 +57,7 @@ Mohammad's **peer-reviewed work** covers **benchmarks for LLM coding ability**, 
 
 #### 🧠 Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=8" alt="PyTorch, TensorFlow, scikit-learn" /><img src="assets/icons/langchain.svg" width="48" height="48" alt="LangChain" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=8" alt="PyTorch, TensorFlow, scikit-learn" />&nbsp;&nbsp;<img src="assets/icons/langchain.svg" width="48" height="48" alt="LangChain" />
 
 #### 🖥️ Application Engineering
 
@@ -65,11 +65,11 @@ Mohammad's **peer-reviewed work** covers **benchmarks for LLM coding ability**, 
 
 #### ☁️ Infrastructure & Data
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,postgres,redis,nginx&perline=8" alt="Docker, Kubernetes, AWS, Azure, GCP, PostgreSQL, Redis, Nginx" /><img src="assets/icons/digitalocean.svg" width="48" height="48" alt="DigitalOcean" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,postgres,redis,nginx&perline=8" alt="Docker, Kubernetes, AWS, Azure, GCP, PostgreSQL, Redis, Nginx" />&nbsp;&nbsp;<img src="assets/icons/digitalocean.svg" width="48" height="48" alt="DigitalOcean" />
 
 ## 4️⃣ Threats to Validity
 
-⚠️ This README was written by Mohammad himself. **Independent replication** is encouraged: **read the papers** [[3]](#references) 📄, **run the [code](https://github.com/mmohajer9?tab=repositories)** 💻, or **email him** [[5]](#references) ✉️ and draw your own conclusions.
+⚠️ This README was written by Mohammad himself, so take the self-report with a grain of salt. Don't trust the summary: **read the papers** [[3]](#references) 📄, **run the [code](https://github.com/mmohajer9?tab=repositories)** 💻, or **email him** [[5]](#references) ✉️ and draw your own conclusions.
 
 ## References
 
