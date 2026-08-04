@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Senior ML/Software Engineer @ [LRQA](https://www.lrqa.com/)
 
-*ML × SE Researcher · Full-Stack at Heart · Toronto, Canada 🇨🇦*
+*ML × SE Researcher · Engineer at ❤️ · Toronto, Canada 🇨🇦*
 
 <sub>\* Also answers to **Mo** and **Mamad**. Yes, that explains the domain name.</sub>
 
@@ -22,7 +22,9 @@ Most engineers **ship** AI systems. Most researchers **doubt** them. I do both, 
 
 I spent years as a **senior full-stack software engineer** before moving into **ML and AI**, and I never put the first toolbox down. That mix is rarer than it should be: I can design the **intelligent core** of a system 🧠 and also build the entire product around it, **end to end** 🏗️. My work spans **production AI systems**, the engineering that keeps them **reliable**, and **research** 🔬 on how to evaluate them honestly.
 
-There are persistent **founder symptoms** too 🚀: ideas around me have a habit of **turning into products**. Figure 1 shows the loop that ties all of this together.
+There are persistent **founder symptoms** too 🚀: ideas around me have a habit of **turning into products**. [Figure 1](#figure-1) shows the loop that ties all of this together.
+
+<a id="figure-1"></a>
 
 ```mermaid
 flowchart LR
@@ -45,27 +47,27 @@ flowchart LR
 
 ## 2️⃣ Related Work
 
-Mohammad's peer-reviewed work covers benchmarks for LLM coding ability, testing methods for deep learning libraries, and LLM-driven program analysis. The full record is archived in [[3]](#references) 📚. His industry track record is documented separately in [[2]](#references) 💼.
+Mohammad's **peer-reviewed work** covers **benchmarks for LLM coding ability**, **testing methods for deep learning libraries**, and **LLM-driven program analysis**. The full record is archived in [[3]](#references) 📚. His **industry track record** is documented separately in [[2]](#references) 💼.
 
 ## 3️⃣ Apparatus: The Stack 🧰
 
-**🧠 ML & LLMs:** model training, evaluation, and everything needed to trust the outputs
+**🧠 ML & LLMs:** model **training**, **evaluation**, and everything needed to **trust the outputs**
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&perline=8" alt="Python, PyTorch, TensorFlow, scikit-learn" />
 
-**🖥️ Product & Backend:** because a model without a product around it is just a demo
+**🖥️ Product & Backend:** because a model without a product around it is just a **demo**
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,django,nodejs,graphql&perline=8" alt="TypeScript, React, Next.js, Django, Node.js, GraphQL" />
 
-**☁️ Infra & Data:** keeping things alive in production, where "it worked on my machine" goes to die
+**☁️ Infra & Data:** keeping things alive in **production**, where *"it worked on my machine"* goes to die
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,redis,nginx&perline=8" alt="Docker, Kubernetes, AWS, PostgreSQL, Redis, Nginx" />
 
-**⚗️ Evaluation criterion:** every claim gets a benchmark and every system gets a test. Vibes are not a metric.
+**⚗️ Evaluation criterion:** every claim gets a **benchmark** and every system gets a **test**. **Vibes are not a metric.**
 
 ## 4️⃣ Threats to Validity
 
-⚠️ This README was written by Mohammad himself. Independent replication is encouraged: read the papers [[3]](#references) 📄, run the [code](https://github.com/mmohajer9?tab=repositories) 💻, or email him [[5]](#references) ✉️ and draw your own conclusions.
+⚠️ This README was written by Mohammad himself. **Independent replication** is encouraged: **read the papers** [[3]](#references) 📄, **run the [code](https://github.com/mmohajer9?tab=repositories)** 💻, or **email him** [[5]](#references) ✉️ and draw your own conclusions.
 
 ## References
 
